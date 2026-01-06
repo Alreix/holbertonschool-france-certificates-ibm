@@ -6,6 +6,8 @@ This repository contains the certificates earned during Holberton School (France
 
 - `certificates-trimester-1/certificate-oss.png` — Open Source Software (OSS) certificate
 
+- `certificates-trimester-1/certificate-agile.png` — Agile Explorer certificate
+
 ## Author
 
 Morgane (Holberton School)
