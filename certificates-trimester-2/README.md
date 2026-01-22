@@ -4,7 +4,7 @@ This repository contains the certificates earned during Holberton School (France
 
 ## Contents
 
--`certificates-trimester-2/certificate-project-management-1 — Project Management Fundamentals
+- `certificates-trimester-2/certificate-project-management-1 — Project Management Fundamentals
 
 ## Author
 Morgane (Holberton School)
